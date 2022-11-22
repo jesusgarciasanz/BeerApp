@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BeerApp</string>
+    <string name="app_title">Beer App</string>
+    <string name="search_beer">Search Beer</string>
+    <string name="sample_name">Estrella Galicia</string>
+    <string name="sample_description">Our flagship beer that kick started the craft beer revolution. This is James and Martin\'s original take on an American IPA, subverted with punchy New Zealand hops. Layered with new world hops to create an all-out riot of grapefruit, pineapple and lychee before a spiky, mouth-puckering bitter finish.</string>
+    <string name="sample_tagline">Post Modern Classic. Spiky. Tropical. Hoppy</string>
+    <string name="first_brewed">Primera elaboración</string>
+    <string name="abv">Cantidad de alcohol</string>
+    <string name="ibu">Amargor</string>
+    <string name="ebc">Unidades de color</string>
+    <string name="ph">PH</string>
+    <string name="attenuation">Atenuación</string>
+</resources>
